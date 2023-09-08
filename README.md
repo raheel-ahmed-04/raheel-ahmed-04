@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @raheel-ahmed-04
+- 👋 Hi, I’m Raheel
+- 🏫 I'm am a Software Engineering Student
 - 👀 I’m interested in AI(Machine Learning and Deep Learning)
-- 🌱 I’m currently learning Data Science
+- 🌱 On road to be a Data Science Expert
 - 📫 How to reach me WhatsApp @ 03355047228
 
 <!---

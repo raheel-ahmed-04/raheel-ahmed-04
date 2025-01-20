@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Raheel
-- 🏫 I'm am a Software Engineering Student
-- 👀 I’m interested in AI(Machine Learning and Deep Learning)
-- 🌱 On road to be a Data Science Expert
+- 🏫 I'm am a Software Engineering Student at COMSATS University
+- 👀 I Specialize in Web Development and Software Development
 - 📫 How to reach me WhatsApp @ 03355047228
 
 <!---

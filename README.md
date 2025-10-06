@@ -117,13 +117,6 @@ Responsive brand website that **improved vehicle bookings by 35%**.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raheel-ahmed-04&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raheel-ahmed-04&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raheel-ahmed-04&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
 
 ---
 <!--
@@ -131,7 +124,7 @@ Responsive brand website that **improved vehicle bookings by 35%**.
 
 <div align="center">
 
-🎓 **Academic Excellence** - CGPA: 3.85/4.0  
+🎓 **Academic Excellence** - CGPA: 3.86/4.0  
 🚀 **35% Improvement** in vehicle bookings through web development  
 ⚡ **20% Delivery Improvement** in team collaboration  
 📈 **90% On-time Delivery** rate for assigned tasks  

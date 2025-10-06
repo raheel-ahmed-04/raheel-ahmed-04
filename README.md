@@ -12,7 +12,7 @@ const raheel = {
     role: "Full-Stack Developer",
     location: "Wah Cantt, Rawalpindi, Pakistan 🇵🇰",
     education: "BS Software Engineering @ COMSATS University",
-    cgpa: "3.85/4.0",
+    cgpa: "3.86/4.0",
     currentWork: "Factory Web Services",
     
     code: ["JavaScript", "TypeScript", "Python", "SQL"],
@@ -22,11 +22,7 @@ const raheel = {
         databases: ["Supabase", "MongoDB", "PostgreSQL"],
         tools: ["Git", "GitHub", "VS Code"],
         cloud: ["Vercel", "Netlify"]
-    },
-    
-    currentlyLearning: "Advanced React Patterns & System Design",
-    lookingFor: "Full-time opportunities in Full-Stack Development",
-    funFact: "I improved vehicle bookings by 35% with a single website! 🚗"
+    }
 };
 ```
 <!--
@@ -134,10 +130,11 @@ Responsive brand website that **improved vehicle bookings by 35%**.
 
 ---
 --->
-
+<!--
 ## 🎯 Current Goals
 
 - 🌱 Learning **Advanced React Patterns** and **System Design**
 - 👯 Looking to collaborate on **Open Source Projects**
 - 🤔 Seeking **Full-time opportunities** in Full-Stack Development
-- 💬
+
+--->

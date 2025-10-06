@@ -10,7 +10,7 @@
 const raheel = {
     name: "Raheel Ahmed",
     role: "Full-Stack Developer",
-    location: "Wah Cantt, Rawalpindi, Pakistan 🇵🇰",
+    location: "Pakistan 🇵🇰",
     education: "BS Software Engineering @ COMSATS University",
     cgpa: "3.86/4.0",
     currentWork: "Factory Web Services",

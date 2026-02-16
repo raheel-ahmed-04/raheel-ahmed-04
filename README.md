@@ -105,7 +105,7 @@ Responsive brand website that **improved vehicle bookings by 35%**.
 </div>
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 
 <div align="center">

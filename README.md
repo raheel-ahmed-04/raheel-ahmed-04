@@ -25,31 +25,35 @@ const raheel = {
     }
 };
 ```
-<!--
+
 ---
 
-## 💼 Professional Experience
+<details>
+<summary>💼 Professional Experience</summary>
 
- **🏢 Full Stack Developer** @ [Factory Web Services](https://www.factorywebservices.com/) *(Aug 2024 - Present)*
+**🏢 Full Stack Developer** @ [Factory Web Services](https://www.factorywebservices.com/) *(Aug 2024 - Present)*
 - 🌐 Built responsive websites using **Next.js** and **React.js** for major brands
 - 🔧 Contributed to developing full-stack **HVAC CMMS Web-App**
 - 🔗 Integrated APIs to enhance website functionality
 - 👥 Collaborated in remote team, **improved delivery by 20%**
 - ⏰ **Delivered 90% tasks on time**
---->
-<!--
----
 
-## 🎯 Featured Projects
+</details>
 
-<div align="center">
+<details>
+<summary>🎯 Featured Projects</summary>
 
-### 🏭 CMMS - Computerized Maintenance Management System
+### 🏭 CMMS - Multi-Tenant SaaS Maintenance Management System
 **Jan 2025 - June 2025** | *In Development*
 
-Large-scale maintenance management software for mechanical and electrical installations in Islamabad.
+A multi-tenant SaaS platform for managing mechanical and electrical maintenance operations, built with enterprise-grade security and offline reliability in mind.
 
-**Tech Stack:** `Next.js` `TypeScript` `Express.js` `Node.js` `Supabase`
+- 🏢 **Multi-tenant architecture** with strict data isolation across organizations
+- 🔐 **RBAC & Row-Level Security (RLS)** for fine-grained, role-based access control
+- 📡 **Offline-first PWA** design — fully functional without internet, syncs when reconnected
+- 🛡️ Went through a **penetration test assessment**, with all findings (RLS gaps, bulk data enumeration, auth control issues) resolved and documented in a formal remediation report
+
+**Tech Stack:** `Next.js` `TypeScript` `Express.js` `Node.js` `Supabase` `PostgreSQL`
 
 ---
 
@@ -69,13 +73,10 @@ Responsive brand website that **improved vehicle bookings by 35%**.
 
 **Tech Stack:** `React.js` `JavaScript` `Next.js` `Express.js` `External APIs`
 
-</div>
---->
----
+</details>
 
-## 🛠️ Tech Stack
-
-<div align="center">
+<details>
+<summary>🛠️ Tech Stack</summary>
 
 ### Frontend
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -102,23 +103,18 @@ Responsive brand website that **improved vehicle bookings by 35%**.
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-</div>
-
----
-<!--
-## 📊 GitHub Stats
-
+</details>
+<!---
+<details>
+<summary>📊 GitHub Stats</summary>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raheel-ahmed-04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raheel-ahmed-04&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=raheel-ahmed-04&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=raheel-ahmed-04&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </div>
-
-
----
-<!--
-## 🏆 Achievements
-
-<div align="center">
+</details>
+--->
+<details>
+<summary>🏆 Achievements</summary>
 
 🎓 **Academic Excellence** - CGPA: 3.86/4.0  
 🚀 **35% Improvement** in vehicle bookings through web development  
@@ -126,15 +122,13 @@ Responsive brand website that **improved vehicle bookings by 35%**.
 📈 **90% On-time Delivery** rate for assigned tasks  
 🌟 **Multiple Live Projects** serving real businesses  
 
-</div>
+</details>
 
----
---->
-<!--
-## 🎯 Current Goals
+<details>
+<summary>🎯 Current Goals</summary>
 
 - 🌱 Learning **Advanced React Patterns** and **System Design**
 - 👯 Looking to collaborate on **Open Source Projects**
 - 🤔 Seeking **Full-time opportunities** in Full-Stack Development
 
---->
+</details>
